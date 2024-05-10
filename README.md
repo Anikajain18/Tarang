@@ -5,16 +5,19 @@
 **This repository is designed to be a comprehensive resource for developers and users interested in exploring the technological and community-building aspects of Tarang.**
 
 <br>
+
 ## Mission
 
 At Tarang, our mission is to transform how users interact with music. By integrating streaming services with robust social features, we aim to foster a thriving community where both music lovers and creators can collaborate, share, and enhance their visibility in the industry. Our primary focus is on nurturing the careers of indie artists, providing them a platform to be heard and appreciated on a larger scale.
 
 <br>
+
 ## Features
 
 Tarang offers distinct features tailored for two user types: **Listeners** and **Creators**. Each profile type is designed to enhance the user's experience and engagement within the music community.
 
 <br>
+
 ### Listener Features
 
 - **Music Streaming:** Access an expansive library spanning various musical genres and artists.
